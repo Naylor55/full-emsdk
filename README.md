@@ -14,7 +14,7 @@ emsdk是一个工具，用来安装 emscripten ，emscripten 是一个WebAssembl
 
 然而在使用 emsdk 安装 emscripten 的时候总会遇到各种各样的网络问题，并且全网没有一个完整版本的 emsdk ，能够找到的资料都是编写的各种python脚本，这种只能简化emscripten的安装，无法规避网络问题。此仓库提供一个完整版本的 emsdk 的安装程序，下载此安装程序后就可以得到一个完整版本的 emscripten （v3.1.54）。配置环境变量后就可以直接使用了。
 
-# 如何获取完整的sdk
+# 如何获取完整的 emsdk
 
 # 其它版本
 
