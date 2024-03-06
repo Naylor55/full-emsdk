@@ -16,6 +16,12 @@ emsdk是一个工具，用来安装 emscripten ，emscripten 是一个WebAssembl
 
 # 如何获取完整的 emsdk
 
+emsdk编译好的完整版太大了，无法放在github中，本仓库并不存，可以通过如下方式获取：
+
+* 关注微信公众号“TechnologyRamble”并回复“emsdk”关键词获取
+* 发送邮件，收信之后私发
+
+  
 # 其它版本
 
 需要其它版本请提交Issues，或者邮箱联系我。
